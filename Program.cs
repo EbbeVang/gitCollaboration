@@ -11,8 +11,12 @@ namespace RSSHandler
     {
         static void Main(string[] args)
         {
+            string Bruno = "Filthy Arab";
             Console.WriteLine("Monica says hello!");
-            Console.WriteLine("Hello again");
+            if (Bruno == "Filthy Arab")
+            {
+                Console.WriteLine("Speak arabic for us!");
+            }
         }
 
         public void SayHello()
