@@ -13,5 +13,10 @@ namespace RSSHandler
         {
             Console.WriteLine("Monica says hello!");
         }
+
+        public void SayHello()
+        {
+            Console.WriteLine("Hello World");
+        }
     }
 }
