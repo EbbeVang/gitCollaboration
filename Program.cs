@@ -11,7 +11,7 @@ namespace RSSHandler
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Monica says hello!");
         }
     }
 }
